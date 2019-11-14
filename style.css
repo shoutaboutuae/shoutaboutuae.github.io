@@ -1,0 +1,150 @@
+#cf {
+  position: inline;
+  left:15;
+  height:558px;
+  width:365px;
+  margin:0 auto;
+	
+}
+
+#cf img {
+  position:absolute;
+  left:15;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf img.top:hover {
+  opacity:0;
+}
+
+
+#cf1 {
+  position:absolute;
+  left:15;
+  height:210px;
+  width:650px;
+  margin:0 auto;
+	
+}
+
+#cf1 img {
+  position:absolute;
+  left:15;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf1 img.top:hover {
+  opacity:0;
+}
+
+    
+div3 {   
+
+	float: left;
+    line-height: 1.6;
+	font-size: 1.3em;   
+	width:41%;   
+	height:48%;   
+	margin:0px 0 0px 0px;   
+	background:#9dc3e6;  
+	margin: 15px 0px 0px 5px; 
+	display:inline;   
+	position: absolute; 
+	top: 19.5%; 
+	left: 1%; 
+	
+}   
+
+
+div4 {  
+
+	float:left;  
+    line-height: 1.6;
+	font-size: 1.3em; 
+	width:29.75%;   
+	height:74%;   
+	margin:0px 0 0px 0px;   
+	background:#9dc3e6;  
+	margin: 0px 0 0 40px; 
+	display:inline;   
+	position: absolute;
+	top: 22%;
+	left: 41.5%;
+}
+
+div5 {   
+
+	float: right;
+    line-height: 1.6;
+	font-size: 1.15em;   
+	width:10%;   
+	height:52%;   
+	margin:0px 0 0px 0px;   
+	background:lightblue;  
+	margin: 15px 0px 0px 0px; 
+	display:inline;   
+	position: absolute; 
+	top: 20%; 
+	left: 76%; 
+	
+}   
+
+div6 {   
+
+	float:left;  
+	width:0%;   
+	height:0%;  
+	background:lightblue;  
+	margin: 0px 0 0 10px; 
+	display:inline-block;    
+	position: absolute; 
+	top: 70%; 
+	left: 0.5%; 
+}   
+
+
+ul {   
+	
+	list-style-type: none;   
+	margin: 0;   
+	width: 1520px;
+	padding: 0;   
+	overflow: hidden;   
+	background-color: white;  
+	position: absolute; 
+	top: 98px;  
+}   
+
+ 
+li {   
+
+	float: left; 
+           
+}   
+
+ 
+li a {   
+
+	display: block; 
+	font-family: Verdana;  
+	color: black; 
+	width: 271px;  
+	border:0.5px solid black;  
+	font-size:16px;   
+	text-align: center;   
+	padding: 16px;   
+	text-decoration: none; 
+}
+
+li a:hover {   
+
+	background-color:  lightgrey;  
+	border:0.5px solid black;  
+
+}   
